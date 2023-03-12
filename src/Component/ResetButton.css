@@ -1,0 +1,11 @@
+.reset-board{
+    padding: 1.5rem;
+    border: none;
+    background-color: royalblue;
+    color: white;
+    font-size: 1.2rem;
+    border-radius: 10px;
+    margin: 2rem auto;
+    display: block;
+    cursor: pointer;
+}
